@@ -87,4 +87,5 @@ Present insights visually and professionally
 Strong portfolio piece for Data Analyst, BI Analyst, or HR Analytics roles.
 
 🖼️ Dashboard Preview
-<img width="1562" height="735" alt="image" src="https://github.com/user-attachments/assets/c17a4d50-b9a0-42fa-981f-055225b5880c" />
+<img width="1377" height="734" alt="image" src="https://github.com/user-attachments/assets/a31d0319-897f-46ca-8b8f-7804b5134abd" />
+
